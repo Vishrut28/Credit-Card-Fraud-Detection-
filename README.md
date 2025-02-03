@@ -10,3 +10,4 @@ The dataset used for this project is sourced from Kaggle's Credit Card Fraud Det
 # Results
 Key findings include the proportion of fraudulent transactions and insights on transaction amount distribution.
 The best-performing model accurately distinguishes between fraud and legitimate transactions, providing a foundation for further enhancements in fraud detection.
+ 
